@@ -25,7 +25,7 @@
     {
       "id": 0,
       "name": "제주가까",
-      "description": "<제주가까>는 제주도의 실제 여행지, 행사 및 음식점들의 정보를 바탕으로 코스를 제작하여 공유하고, 여행 관련 커뮤니티 활동을 할 수 있도록 제작한 프로젝트입니다. 데브옵스 수업에서 학습한 Maven Project를 복습하며 활용하고, API호출을 통해 실제 데이터를 기반으로 보다 실용적인 사이트를 기획하며 제작하였습니다.",
+      "description": "<제주가까>는 제주도의 실제 여행지, 행사 및 음식점들의 정보를 바탕으로 코스를 제작하여 공유하고, 여행 관련 커뮤니티 활동을 할 수 있도록 제작한 프로젝트입니다. 일반 데스크탑 환경을 고려해 페이지를 설계했습니다",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/cwt629/Jejugagga",
       "isTeam": true,
@@ -35,7 +35,7 @@
     {
       "id": 1,
       "name": "TODAC",
-      "description": "TODAC은 언제 어디서든 바로 상담받을 수 있는 AI 심리 상담 서비스입니다. 언제든 대기하고 있는 상담사들과 실시간으로 채팅할 수 있고, 여러분이 직접 상담사를 커스텀할 수도 있답니다! 상담이 끝나면 요약본과 진단서를 제공받을 수도 있습니다. 커뮤니티에서는 상담 내용을 공유할 수 있고, 간단한 미니게임도 진행할 수 있습니다.\nTODAC은 항상 당신의 곁에 있으니, 어려울 때 저희를 찾아주세요!",
+      "description": "TODAC은 AI상담사 들을 통해 언제 어디서든 고민을 이야기할 수 있도록 제작한 프로젝트입니다. Spring-Boot와 React를 활용했으며, navercloud 서버와 jenkins, doker를 통해 배포하였습니다. 모바일 환경을 고려해 페이지를 설계했습니다. ",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/cwt629/TODAC",
       "isTeam": true,
@@ -89,7 +89,7 @@
     },
     {
       "id": 2,
-      "name": "NCP",
+      "name": "NCP(Professional), NCA(Associate)",
       "date": "2024. 02. 02",
       "organizer": "NAVER Cloud Platform"
     }
