@@ -6,9 +6,9 @@
   "information": {
     "name": "김동현",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "kd0948@gmail.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/dongpyeon" },
+      { "id": 2, "name": "Blog", "href": "https://blog.naver.com/kd0948" }
     ]
   },
 
@@ -30,7 +30,7 @@
       "repoUrl": "https://github.com/cwt629/Jejugagga",
       "isTeam": true,
       "period": ["2022. 10", "2022. 11"],
-      "stack": ["spring-framework", "mybatis", "jquery"]
+      "stack": ["spring-framework", "mybatis", "jquery", "Maven"]
     },
     {
       "id": 1,
@@ -40,7 +40,7 @@
       "repoUrl": "https://github.com/cwt629/TODAC",
       "isTeam": true,
       "period": ["2024. 01", "2024. 03"],
-      "stack": ["React.js", "spring-boot"]
+      "stack": ["React.js", "spring-boot", "gradle"]
     }
   ],
 
